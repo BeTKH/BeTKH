@@ -1,11 +1,9 @@
-### Hi there, I'm Bekalu- a.k.a. [Beck][link] 👋
+### Hi there, I'm Bekalu- a.k.a. [Beck][link](https://github.com/BeTKH) 👋
 
 - ⚡ What I'm upto: Finishing up my masters at the University of Rostock.
 - ⚡ Learning right now: Django
-- ⚡ Looking for: An Internship in software \ Web Developement \ Python Programming
+- ⚡ Acively looking for: An Internship in software \ Web Developement \ Python Programming
 
-
-[![link]](https://github.com/BeTKH)
 
 <summary>:zap: GitHub Stats</summary>
 

@@ -1,7 +1,6 @@
 ## Hi there, I'm Bekalu- a.k.a. Beck 👋
 
-- ⚡ What I'm upto: Finishing up my masters at the University of Rostock.
-- ⚡ Learning right now: Django
+- ⚡ Learning right now: Django and recaping Java
 - ⚡ Acively looking for: An Internship in software \ Web Developement \ Python Programming
 
 

@@ -5,9 +5,9 @@
 
 ## 💬 Languages
 
-**Amharic**: Native<br>
-**English**: Fluent<br>
-**German**: A2
+- **Amharic**: Native<br>
+- **English**: Fluent<br>
+- **German**: A2
 
 <summary>:zap: GitHub Stats</summary>
 

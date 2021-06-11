@@ -12,7 +12,7 @@
 
 ### Connect with me via:
 
-[<img align="left" alt="Twitter" width="25px" src="twitter.jpg" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="twitter.jpg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="linked.png" />][linkedin]
 
 

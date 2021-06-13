@@ -7,9 +7,6 @@
 
 <ul>
 	<li>Python</li>
-	
-	<img width="100px" src="https:/progress-bar.dev/<thepercentage"/>
-	
 	<li>Java</li>
 	<li>Javascript / jQuery</li>
 	<li>HTML</li>

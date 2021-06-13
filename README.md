@@ -1,4 +1,4 @@
-## Hi there, I'm Bekalu- a.k.a. Bucky 👋
+## Hi : I'm Bucky 👋
 
 - ⚡ Learning right now: Django and recaping Java
 - ⚡ Acively looking for: An Internship in software \ Web Developement \ Python Programming

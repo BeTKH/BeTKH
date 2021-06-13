@@ -3,6 +3,23 @@
 - ⚡ Learning right now: Django and recaping Java
 - ⚡ Acively looking for: An Internship in software \ Web Developement \ Python Programming
 
+<p><img align="left" alt="Twitter" width="55px" src="programmer.jpg" /><h2>Programming Skill sets</h2></p> 
+
+<ul>
+	<li>Python</li>
+	
+	<img width="100px" src="https:/progress-bar.dev/<thepercentage"/>
+	
+	<li>Java</li>
+	<li>Javascript / jQuery</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	
+
+</ul>
+
+</br>
+
 ## 💬 Languages
 
 - **Amharic**: Native<br>

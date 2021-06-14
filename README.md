@@ -6,10 +6,10 @@
 
 <p> <img align="left" alt="Twitter" width="45px" src="programmer.jpg" /><h3>Programming</h3></p>
 
-<br>
-**PYTHON** ![Progress](https://progress-bar.dev/85/) **JAVA** ![Progress](https://progress-bar.dev/80/) **C++** ![Progress](https://progress-bar.dev/60/) <br>
-**Javascript** ![Progress](https://progress-bar.dev/65/)
-**HTML** ![Progress](https://progress-bar.dev/95/)  **CSS**  ![Progress](https://progress-bar.dev/90/)
+
+- **PYTHON** ![Progress](https://progress-bar.dev/85/) **JAVA** ![Progress](https://progress-bar.dev/80/) **C++** ![Progress](https://progress-bar.dev/60/) <br>
+- **Javascript** ![Progress](https://progress-bar.dev/65/)
+- **HTML** ![Progress](https://progress-bar.dev/95/)  **CSS**  ![Progress](https://progress-bar.dev/90/)
 
 ## 💬 Languages
 

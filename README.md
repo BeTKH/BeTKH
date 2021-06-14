@@ -8,7 +8,7 @@
 
 ![Progress](https://progress-bar.dev/85/?title=Python)
 ![Progress](https://progress-bar.dev/80/?title=Java)
-![Progress](https://progress-bar.dev/60/?title=C++)
+![Progress](https://progress-bar.dev/60/?title=CPP)
 ![Progress](https://progress-bar.dev/55/?title=Javascript)
 ![Progress](https://progress-bar.dev/95/?title=HTML)
 ![Progress](https://progress-bar.dev/90/?title=CSS)

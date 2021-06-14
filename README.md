@@ -13,7 +13,7 @@
 ![Progress](https://progress-bar.dev/95/?title=HTML)
 ![Progress](https://progress-bar.dev/90/?title=CSS)
 
-<p> <img align="left" alt="Twitter" width="45px" src="degree.png" /><h3>Education</h3></p>
+<p> <img align="left" alt="Twitter" width="45px" src="degree.jpg" /><h3>Education</h3></p>
 
 <ul>
 <li>B.Sc. Electrical Engineering - Jimma University - Ethiopia</li>

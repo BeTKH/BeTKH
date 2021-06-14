@@ -14,13 +14,13 @@
 ![Progress](https://progress-bar.dev/90/?title=CSS)
 
 <p> <img align="left" alt="Twitter" width="40px" src="degree.jpg" /><h3>Education</h3></p>
-
+<hr>
 
 - ⚡ B.Sc. Electrical Engineering - Jimma University - Ethiopia</li>
 - ⚡ M.Sc. Electrical Engineering (IT) - Universität Rostock - Germany</li>
 
 
-## 💬 Languages
+💬<h3>Languages</h3>
 
 - **Amharic**: Native<br>
 - **English**: Fluent<br>

@@ -6,7 +6,8 @@
 
 <p> <img align="left" alt="Twitter" width="45px" src="programmer.jpg" /><h3>Programming</h3></p>
 
-- https://progress-bar.dev/28/?title=Python
+![Progress](https://progress-bar.dev/28/?title=Python)
+https://progress-bar.dev/85/?title=progress
 
 - **PYTHON** ![Progress](https://progress-bar.dev/85/) **JAVA** ![Progress](https://progress-bar.dev/80/) **C++** ![Progress](https://progress-bar.dev/60/) <br>
 - **Javascript** ![Progress](https://progress-bar.dev/65/)

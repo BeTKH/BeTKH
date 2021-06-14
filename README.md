@@ -19,7 +19,7 @@
 - ⚡ M.Sc. Electrical Engineering (IT) - Universität Rostock - Germany</li>
 
 
-<p>💬<h3>Languages</h3></p>
+#### 💬Languages
 
 - **Amharic**: Native<br>
 - **English**: Fluent<br>

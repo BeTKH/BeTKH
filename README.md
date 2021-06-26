@@ -1,7 +1,7 @@
-## Hi : I'm Bucky 👋
+## Hi ;)👋
 
 - ⚡ Learning right now: Django and recaping Java
-- ⚡ Acively looking for: An Internship in software \ Web Developement \ Python Programming
+- ⚡ Acively looking for: An Internship in software \ Web Developement \ Programming
 
 
 <p> <img align="left" alt="Twitter" width="45px" src="programmer.jpg" /><h3>Programming</h3></p>

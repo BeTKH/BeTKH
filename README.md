@@ -1,9 +1,5 @@
 ## Hi ;)👋
 
-- ⚡ Learning right now: Django and recaping Java
-- ⚡ Acively looking for: An Internship in software \ Web Developement \ Programming
-
-
 <p> <img align="left" alt="Twitter" width="45px" src="programmer.jpg" /><h3>Programming</h3></p>
 
 ![Progress](https://progress-bar.dev/85/?title=Python)
@@ -32,10 +28,6 @@
 
 ### Connect with me via:
 
-[<img align="left" alt="Twitter" width="22px" src="twitter.jpg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="linked.png" />][linkedin]
 
-
-
-[twitter]: https://twitter.com/beck_tkh
 [linkedin]: https://www.linkedin.com/in/bekalu-tadesse-1902b3122/

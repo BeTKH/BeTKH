@@ -26,8 +26,6 @@
 <span>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=BeTKH)](https://github.com/anuraghazra/github-readme-stats)</span>
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</span>
 
-### Connect with me via:
-
-[<img align="left" alt="LinkedIn" width="22px" src="linked.png" />][linkedin]
+### Connect with me via: [<img align="left" alt="LinkedIn" width="22px" src="linked.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/bekalu-tadesse-1902b3122/

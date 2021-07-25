@@ -10,8 +10,8 @@
 
 <p> <img align="left" alt="Twitter" width="40px" src="degree.jpg" /><h2>Education</h2></p>
 
-- ⚡** B.Sc. Electrical Engineering - Jimma University - Ethiopia**</li>
-- ⚡** M.Sc. Electrical Engineering (IT) - Universität Rostock - Germany**</li>
+- ** B.Sc. Electrical Engineering - Jimma University - Ethiopia**</li>
+- ** M.Sc. Electrical Engineering (IT) - Universität Rostock - Germany**</li>
 
 
 ## 💬 Languages

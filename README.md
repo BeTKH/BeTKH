@@ -1,13 +1,14 @@
 #### Hi ;)👋
 
-#### :mortar_board: I've studied at:
+#### :mortar_board: Affliations:
 
-- Jimma University - Ethiopia - B.Sc. Electrical Engineering - 
-- Universität Rostock - Germany- M.Sc. Electrical Engineering (IT) 
+- Jimma University - Ethiopia - B.Sc. Electrical Engineering 
+- Universität Rostock - Germany - M.Sc. Electrical Engineering & IT
+- Universitat Regensburg - Germany - Research Associate 
 
-#### :four_leaf_clover: Currently working on 
+#### :four_leaf_clover: Currently working on: 
 
-- DFG PROJECT: NoSQL Schema Evolution and Big Data Migration
+- DFG Research: NoSQL Schema Evolution and Big Data Migration.
 - Extraction of intermodel linkages in multi-model database systems [Graph, Relational, Document]. 
 
 #### 🔥 I'm interested in:

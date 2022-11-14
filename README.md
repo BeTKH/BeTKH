@@ -66,5 +66,5 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14582502/bekalu-tadesse)](https://stackoverflow.com/users/14582502/bekalu-tadesse)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/bekaluetadesse)](https://www.kaggle.com/bekaluetadesse)  ---> 
 
-#### :hand_over_mouth: Wanna buy me coffe  
-- here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)
+<!--  #### :hand_over_mouth: Wanna buy me coffe  
+- here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   ---> 

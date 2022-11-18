@@ -62,6 +62,9 @@
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=plastic&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/blu1652)](https://www.reddit.com/user/blu1652)
+[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about-en?authuser=0)](https://sites.google.com/view/bekaluetadesse/about-en?authuser=0)
+
+
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&lo]go=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Beck_TKH/)](https://leetcode.com/Beck_TKH/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14582502/bekalu-tadesse)](https://stackoverflow.com/users/14582502/bekalu-tadesse)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/bekaluetadesse)](https://www.kaggle.com/bekaluetadesse)  ---> 

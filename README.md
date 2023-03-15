@@ -2,21 +2,21 @@
 
 #### :mortar_board: Affliations:
 
+- Ph.D. Computer Science - North Dakota State University (NDSU) (In progress)
+- University of Regensburg - Germany - Data Engineering Researcher  
+- University of Rostock - Germany - M.Sc. Electrical Engineering & IT
 - Jimma University - Ethiopia - B.Sc. Electrical Engineering 
-- Universität Rostock - Germany - M.Sc. Electrical Engineering & IT
-- Universitat Regensburg - Germany - Research Associate 
+
 
 #### :four_leaf_clover: Currently working on: 
 
-- DFG Research: NoSQL Schema Evolution and Big Data Migration.
-- Extraction of intermodel linkages in multi-model database systems [Graph, Relational, Document]. 
+- Ph.D. studnet - Computer Science - North Dakota State University (NDSU)
 
 #### 🔥 I'm interested in:
 
-- DBMS: Working with Multi-model Database systems / Polystores.
 - Data: Visualization of (semi-)structured/unstructured text data.  
-- NLP: Sentiment-Analysis, Language Modelling, Text classification, Topic modelling.
-- WebApps: Building WebApps with python frame works.
+- Machine learning / Natural Language Processing: Sentiment-Analysis, Language Modelling, Text classification, Topic modelling.
+- WebApps: Building WebApps with python/Django and Databases MySQL/MongoDB/Neo4j
 
 #### :hammer_and_wrench: I enjoy working with:
  

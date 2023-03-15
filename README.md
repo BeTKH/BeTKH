@@ -11,6 +11,8 @@
 #### :four_leaf_clover: Currently working on: 
 
 - Ph.D. studnet - Computer Science - North Dakota State University (NDSU)
+- software testing in C# & Java
+
 
 #### 🔥 I'm interested in:
 

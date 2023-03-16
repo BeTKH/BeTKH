@@ -2,7 +2,7 @@
 
 #### :mortar_board: Affliations:
 
-- PhD Computer Science <b><u>(In progress)<u></b>- North Dakota State University (NDSU) 
+- PhD Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
 - University of Regensburg - Germany - Data Engineering Researcher  
 - University of Rostock - Germany - MS, Electrical Engineering (Specialiyation in IT)
 - Jimma University - Ethiopia - BS, Electrical Engineering 

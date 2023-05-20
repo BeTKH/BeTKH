@@ -11,15 +11,17 @@
 #### :four_leaf_clover: Currently working on: 
 
 - Ph.D. studnet - Computer Science - North Dakota State University (NDSU)
-- Practising AWS cloud 
-- software testing in C# & Java
+- Practising & building with AWS cloud 
+- problem solving: Software Design patterns & Algorithms 
+
 
 
 #### 🔥 I'm interested in:
 
-- Data: Visualization of (semi-)structured/unstructured text data.  
-- Machine learning / Natural Language Processing: Sentiment-Analysis, Language Modelling, Text classification, Topic modelling.
-- WebApps: Building WebApps with python/Django and Databases MySQL/MongoDB/Neo4j
+- AWS cloud services.  
+- Data analysis & Visualization.  
+- Machine learning / Natural Language Processing / Large Language Models.
+
 
 #### :hammer_and_wrench: I enjoy working with:
  

@@ -66,7 +66,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bekalu-tadesse-1902b3122/)](https://www.linkedin.com/in/bekalu-tadesse-1902b3122/)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=plastic&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/blu1652)](https://www.reddit.com/user/blu1652)
 [![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)
 
 

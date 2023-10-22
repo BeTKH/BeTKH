@@ -1,39 +1,43 @@
 #### Hi ;)👋
 
-#### :mortar_board: Affliations:
+### :mortar_board: Affiliations:
 
 - PhD Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
 - University of Regensburg - Germany - Data Engineering Researcher  
-- University of Rostock - Germany - MS, Electrical Engineering (Specialiyation in IT)
+- University of Rostock - Germany - MS, Electrical Engineering (Specialization in IT)
 - Jimma University - Ethiopia - BS, Electrical Engineering 
 
 
-#### :four_leaf_clover: Currently working on: 
+### :four_leaf_clover: Currently role: 
 
-- Ph.D. studnet - Computer Science - North Dakota State University (NDSU)
-- Practising & building with AWS cloud 
-- problem solving: Software Design patterns & Algorithms 
-
-
-
-#### 🔥 I'm interested in:
-
-- AWS cloud services.  
-- Data analysis & Visualization.  
-- Machine learning / Natural Language Processing / Large Language Models.
+- Ph.D. student - Computer Science - North Dakota State University (NDSU)
+- Teaching Assistant (TA) - at the Computer Science Department, North Dakota State University (NDSU)
+- Learning software Design patterns and algorithms
 
 
-#### :hammer_and_wrench: I enjoy working with:
+
+
+### 🔥 I'm interested in:
+
+- AWS cloud.  
+- DevOps, infrastructure as a code
+- AI: Machine learning / DeepLearning -  Natural Language Processing.
+
+
+#### :hammer_and_wrench: I love working with:
  
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=whitelinkhttps://www.djangoproject.com/)](https://www.djangoproject.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
 [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white&link=https://neo4j.com/)](https://neo4j.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&link=https://en.wikipedia.org/wiki/CSS)](https://en.wikipedia.org/wiki/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&link=https://en.wikipedia.org/wiki/HTML5)](https://en.wikipedia.org/wiki/HTML5)
-[![](https://img.shields.io/badge/wix-000?style=plastic&logo=wix&logoColor=white&link=https://www.wix.com/)](https://www.wix.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white&link=https://jquery.com/)](https://jquery.com/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black&link=https://matplotlib.org/)](https://matplotlib.org/)

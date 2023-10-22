@@ -1,4 +1,4 @@
-#### Hi ;)👋
+#### Hi, I'm Bekalu. Thanks for visiting my GitHub. 
 
 ### :mortar_board: Affiliations:
 

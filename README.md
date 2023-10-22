@@ -1,4 +1,5 @@
-#### Hi, I'm Bekalu. Thanks for visiting my GitHub. 
+Hi 👋🏽, I'm Bekalu. 
+Thanks for visiting my GitHub. 
 
 ### :mortar_board: Affiliations:
 

@@ -81,3 +81,15 @@ Thanks for visiting my GitHub.
  
 <!--  #### :hand_over_mouth: Wanna buy me coffe  
 - here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   ---> 
+
+<!-- 
+## 📈 GitHub Activity Graph ---> 
+
+<!-- GitHub Activity Graph 
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
+  </a>
+</p>
+
+---> 

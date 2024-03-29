@@ -9,7 +9,7 @@ Thanks for visiting my GitHub.
 - Jimma University - Ethiopia - BS, Electrical Engineering 
 
 
-### :four_leaf_clover: Currently role: 
+### :four_leaf_clover: Current role: 
 
 - Ph.D. student - Computer Science - North Dakota State University (NDSU)
 - Teaching Assistant (TA) - at the Computer Science Department, North Dakota State University (NDSU)

@@ -1,7 +1,7 @@
 Hi 👋🏽, I'm Bekalu. 
 Thanks for visiting my GitHub. 
 
-### :mortar_board: Affiliations:
+### :mortar_board: Education:
 
 - PhD Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
 - University of Regensburg - Germany - Data Engineering Researcher  
@@ -13,7 +13,6 @@ Thanks for visiting my GitHub.
 
 - Ph.D. student - Computer Science - North Dakota State University (NDSU)
 - Teaching Assistant (TA) - at the Computer Science Department, North Dakota State University (NDSU)
-- Learning software Design patterns and algorithms
 
 
 

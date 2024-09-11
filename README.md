@@ -3,7 +3,7 @@ Thanks for visiting my GitHub.
 
 ### :mortar_board: Education:
 
-- PhD Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
+- Graduate student in Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
 - University of Regensburg - Germany - Data Engineer  
 - University of Rostock - Germany - MS, Electrical Engineering (Specialization in IT)
 - Jimma University - Ethiopia - BS, Electrical Engineering 

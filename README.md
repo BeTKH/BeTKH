@@ -4,14 +4,14 @@ Thanks for visiting my GitHub.
 ### :mortar_board: Education:
 
 - PhD Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
-- University of Regensburg - Germany - Data Engineering Researcher  
+- University of Regensburg - Germany - Data Engineer  
 - University of Rostock - Germany - MS, Electrical Engineering (Specialization in IT)
 - Jimma University - Ethiopia - BS, Electrical Engineering 
 
 
 ### :four_leaf_clover: Current role: 
 
-- Ph.D. student - Computer Science - North Dakota State University (NDSU)
+- Graduate student - Computer Science - North Dakota State University (NDSU)
 - Teaching Assistant (TA) - at the Computer Science Department, North Dakota State University (NDSU)
 
 

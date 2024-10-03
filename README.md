@@ -8,7 +8,11 @@ Thanks for visiting my GitHub.
 - NLP Masters Thesis Student - University of Rostock - Germany
 - Data Analysis Project - University of Rostock - Germany
 - Customer Service Officer - Ethio Telecom - Ethiopia
-- Electrical Engineer - General Power PLC - Ethiopia 
+- Electrical Engineer - General Power PLC - Ethiopia
+
+### 🏅 Certifications
+- AWS Certified Solutions Architect – Associate (SAA CO3)
+- AWS Certified Cloud Practitioner - (CLF-CO2)
 
 
 ### :mortar_board: Education:

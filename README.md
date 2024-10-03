@@ -33,9 +33,10 @@ Thanks for visiting my GitHub.
 
 ### 🔥 I'm interested in:
 
-- AWS cloud.  
-- DevOps, infrastructure as a code
-- AI: Machine learning / DeepLearning -  Natural Language Processing.
+- Cloud infrastructure
+- Data Engineering
+- Automation (DataOps)
+- ML
 
 
 #### :hammer_and_wrench: I love working with:

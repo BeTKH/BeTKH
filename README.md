@@ -1,6 +1,16 @@
 Hi 👋🏽, I'm Bekalu. 
 Thanks for visiting my GitHub. 
 
+### 💻 Experience:
+
+- Graduate Teaching Assistant (GTA) - North Dakota State University (NDSU) 
+- Data Engineer - University of Regensburg - Germany
+- NLP Masters Thesis Student - University of Rostock - Germany
+- Data Analysis Project - University of Rostock - Germany
+- Customer Service Officer - Ethio Telecom - Ethiopia
+- Electrical Engineer - General Power PLC - Ethiopia 
+
+
 ### :mortar_board: Education:
 
 - Graduate student in Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 

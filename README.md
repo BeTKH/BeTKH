@@ -22,7 +22,7 @@ Thanks for visiting my GitHub.
 ### :four_leaf_clover: Current role: 
 
 - Graduate student - Computer Science - North Dakota State University (NDSU)
-- Teaching Assistant (TA) - at the Computer Science Department, North Dakota State University (NDSU)
+- Graduate Teaching Assistant (GTA) - at the Computer Science Department, North Dakota State University (NDSU)
 
 
 

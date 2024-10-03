@@ -32,14 +32,14 @@ Thanks for visiting my GitHub.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
-[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white&link=https://neo4j.com/)](https://neo4j.com/)
+
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&link=https://en.wikipedia.org/wiki/CSS)](https://en.wikipedia.org/wiki/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&link=https://en.wikipedia.org/wiki/HTML5)](https://en.wikipedia.org/wiki/HTML5)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white&link=https://jquery.com/)](https://jquery.com/)
+
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black&link=https://matplotlib.org/)](https://matplotlib.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&link=https://numpy.org/)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&link=https://plotly.com/)](https://plotly.com/)
@@ -48,10 +48,10 @@ Thanks for visiting my GitHub.
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white&link=https://scipy.org/)](https://scipy.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white&link=https://code.visualstudio.com/)](https://code.visualstudio.com/)
+
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white&linkhttps://www.anaconda.com/)](https://www.anaconda.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
+
 
 <!--  
 

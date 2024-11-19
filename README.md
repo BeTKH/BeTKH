@@ -35,7 +35,7 @@ Thanks for visiting my GitHub.
 ### 🔥 I'm interested in:
 
 - Cloud infrastructure
-- Data Engineering
+- Big / Data Engineering / BI
 - Automation (DataOps)
 - ML
 

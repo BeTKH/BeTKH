@@ -11,8 +11,9 @@ Thanks for visiting my GitHub.
 - Electrical Engineer - General Power PLC - Ethiopia
 
 ### 🏅 Certifications
-- AWS Certified Solutions Architect – Associate (SAA CO3)
-- AWS Certified Cloud Practitioner - (CLF-CO2)
+- (scheduled) AWS Certified Data Engineer – Associate (DEA CO1)
+- :white_check_mark: AWS Certified Solutions Architect – Associate (SAA CO3)
+- :white_check_mark: AWS Certified Cloud - Practitioner (CLF-CO2)
 
 
 ### :mortar_board: Education:

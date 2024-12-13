@@ -1,10 +1,9 @@
-Hi 👋🏽, I'm Bekalu. 
-Thanks for visiting my GitHub. 
-
+Hi 👋🏽, I'm Bekalu.
+Thanks for visiting my GitHub.
 
 ### 💻 Experience:
 
-- Graduate Teaching Assistant (GTA) - North Dakota State University (NDSU) 
+- Graduate Teaching Assistant (GTA) - North Dakota State University (NDSU)
 - Data Engineer - University of Regensburg - Germany
 - NLP Masters Thesis Student - University of Rostock - Germany
 - Data Analysis Project - University of Rostock - Germany
@@ -12,37 +11,35 @@ Thanks for visiting my GitHub.
 - Electrical Engineer - General Power PLC - Ethiopia
 
 ### 🏅 Certifications
+
 - (scheduled) AWS Certified Data Engineer – Associate (DEA CO1)
 - :white_check_mark: AWS Certified Solutions Architect – Associate (SAA CO3)
 - :white_check_mark: AWS Certified Cloud - Practitioner (CLF-CO2)
 
+<p align="center">
+  <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="120"/>
+  <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner.png" width="120"/>
+</p>
 
 ### :mortar_board: Education:
 
-- Graduate student in Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU) 
-- University of Regensburg - Germany - Data Engineer  
+- Graduate student in Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU)
+- University of Regensburg - Germany - Data Engineer
 - University of Rostock - Germany - MS, Electrical Engineering (Specialization in IT)
-- Jimma University - Ethiopia - BS, Electrical Engineering 
+- Jimma University - Ethiopia - BS, Electrical Engineering
 
-
-### :four_leaf_clover: Current role: 
+### :four_leaf_clover: Current role:
 
 - Graduate student - Computer Science - North Dakota State University (NDSU)
 - Graduate Teaching Assistant (GTA) - at the Computer Science Department, North Dakota State University (NDSU)
 
-
-
-
 ### 🔥 I'm interested in:
 
-- Cloud infrastructure
-- Big / Data Engineering / BI
-- Automation (DataOps)
-- ML
-
+- Data Engineering & Automation (DataOps) || ML
+- AWS Cloud
 
 #### :hammer_and_wrench: I love working with:
- 
+
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=whitelinkhttps://www.djangoproject.com/)](https://www.djangoproject.com/)
@@ -69,20 +66,15 @@ Thanks for visiting my GitHub.
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white&linkhttps://www.anaconda.com/)](https://www.anaconda.com/)
 
+<!--
 
+  comment out
 
-
-<!--  
-
-  comment out 
-  
  #### Freelance
- 
+
  ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-  ---> 
-
-
+  --->
 
 #### 📫 Reach me via:
 
@@ -92,20 +84,16 @@ Thanks for visiting my GitHub.
 [![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)
 &nbsp;![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)
 
-
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&lo]go=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Beck_TKH/)](https://leetcode.com/Beck_TKH/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14582502/bekalu-tadesse)](https://stackoverflow.com/users/14582502/bekalu-tadesse)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/bekaluetadesse)](https://www.kaggle.com/bekaluetadesse)  ---> 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/bekaluetadesse)](https://www.kaggle.com/bekaluetadesse)  --->
 
- 
-<!--  #### :hand_over_mouth: Wanna buy me coffe  
-- here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   ---> 
+<!--  #### :hand_over_mouth: Wanna buy me coffe
+- here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   --->
 
- <!-- Github activity  ---> 
+ <!-- Github activity  --->
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-

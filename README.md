@@ -36,14 +36,12 @@ Thanks for visiting my GitHub.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
-
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&link=https://en.wikipedia.org/wiki/CSS)](https://en.wikipedia.org/wiki/CSS)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&link=https://en.wikipedia.org/wiki/HTML5)](https://en.wikipedia.org/wiki/HTML5)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black&link=https://matplotlib.org/)](https://matplotlib.org/)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&link=https://numpy.org/)](https://numpy.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&link=https://plotly.com/)](https://plotly.com/)
@@ -52,7 +50,6 @@ Thanks for visiting my GitHub.
 [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white&link=https://scipy.org/)](https://scipy.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/)
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white&linkhttps://www.anaconda.com/)](https://www.anaconda.com/)
 
@@ -71,19 +68,10 @@ Thanks for visiting my GitHub.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btkh/)](https://www.linkedin.com/in/btkh/)
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)
-[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)
-&nbsp;![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)
-
-<!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&lo]go=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Beck_TKH/)](https://leetcode.com/Beck_TKH/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14582502/bekalu-tadesse)](https://stackoverflow.com/users/14582502/bekalu-tadesse)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=plastic&logo=kaggle&logoColor=white&link=https://www.kaggle.com/bekaluetadesse)](https://www.kaggle.com/bekaluetadesse)  --->
-
-<!--  #### :hand_over_mouth: Wanna buy me coffe
-- here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   --->
+[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)&nbsp;![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)
 
  <!-- Github activity  --->
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />

@@ -1,6 +1,7 @@
 Hi 👋🏽, I'm Bekalu. 
 Thanks for visiting my GitHub. 
 
+
 ### 💻 Experience:
 
 - Graduate Teaching Assistant (GTA) - North Dakota State University (NDSU) 
@@ -69,6 +70,8 @@ Thanks for visiting my GitHub.
 [![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white&linkhttps://www.anaconda.com/)](https://www.anaconda.com/)
 
 
+
+
 <!--  
 
   comment out 
@@ -87,6 +90,7 @@ Thanks for visiting my GitHub.
 [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)
 [![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)
+&nbsp;![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)
 
 
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=plastic&lo]go=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Beck_TKH/)](https://leetcode.com/Beck_TKH/)
@@ -97,14 +101,11 @@ Thanks for visiting my GitHub.
 <!--  #### :hand_over_mouth: Wanna buy me coffe  
 - here-> [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=plastic&logo=ko-fi&logoColor=white&link=https://ko-fi.com/beck_tkh)](https://ko-fi.com/beck_tkh)   ---> 
 
-<!-- 
-## 📈 GitHub Activity Graph ---> 
+ <!-- Github activity  ---> 
 
-<!-- GitHub Activity Graph 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
-  </a>
-</p>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+

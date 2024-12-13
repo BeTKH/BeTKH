@@ -1,37 +1,27 @@
 Hi 👋🏽, I'm Bekalu.
 Thanks for visiting my GitHub.
 
-### 💻 Experience:
+## 💻 Experience:
 
-- Graduate Teaching Assistant (GTA) - North Dakota State University (NDSU)
+- Graduate Teaching Assistant (GTA) at North Dakota State University
 - Data Engineer - University of Regensburg - Germany
 - NLP Masters Thesis Student - University of Rostock - Germany
 - Data Analysis Project - University of Rostock - Germany
 - Customer Service Officer - Ethio Telecom - Ethiopia
 - Electrical Engineer - General Power PLC - Ethiopia
 
-### 🏅 Certifications
+## 🏅 Certifications
 
-- (scheduled) AWS Certified Data Engineer – Associate (DEA CO1)
-- :white_check_mark: AWS Certified Solutions Architect – Associate (SAA CO3)
-- :white_check_mark: AWS Certified Cloud - Practitioner (CLF-CO2)
-
-<p align="center">
-  <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="120"/>
-  <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner.png" width="120"/>
+<p align="left">
+  <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="80"/>
+  <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner.png" width="80"/>
 </p>
 
-### :mortar_board: Education:
+## :mortar_board: Education:
 
-- Graduate student in Computer Science <b><u>(In progress)<u></b> - North Dakota State University (NDSU)
-- University of Regensburg - Germany - Data Engineer
-- University of Rostock - Germany - MS, Electrical Engineering (Specialization in IT)
-- Jimma University - Ethiopia - BS, Electrical Engineering
-
-### :four_leaf_clover: Current role:
-
-- Graduate student - Computer Science - North Dakota State University (NDSU)
-- Graduate Teaching Assistant (GTA) - at the Computer Science Department, North Dakota State University (NDSU)
+- MSc, Computer Science - North Dakota State University (NDSU) (May, 2025)
+- MSc, Information Technology - Universität Rostock - Germany (Apr, 2022)
+- BSc, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
 
 ### 🔥 I'm interested in:
 

@@ -29,7 +29,7 @@ Thanks for visiting my GitHub.
 
 ### 🔥 I'm interested in:
 
-- Data Engineering & Automation (DataOps) || ML
+- Data Engineering & Pipeline Automation
 - AWS Cloud
 
 #### :hammer_and_wrench: I love working with:

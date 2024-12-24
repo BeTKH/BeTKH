@@ -11,11 +11,15 @@ Thanks for visiting my GitHub.
 - Electrical Engineer - General Power PLC - Ethiopia
 
 ## 🏅 Certifications
-
 <p align="left">
-  <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="80"/>
-  <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner.png" width="80"/>
+   <a href="https://www.credly.com/badges/ce52c085-7dce-4cb9-aa7e-dc734f560d35/public_url">
+      <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner" width="105"/>
+  </a>
+  <a href="https://www.credly.com/badges/3c406621-a05b-445a-8cdb-259275bda518/public_url">
+    <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="105"/>
+  </a>
 </p>
+
 
 ## :mortar_board: Education:
 

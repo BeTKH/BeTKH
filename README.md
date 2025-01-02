@@ -17,6 +17,7 @@ Thanks for visiting my GitHub.
 - Electrical Engineer - General Power PLC - Ethiopia
 
 ## 🏅 Certifications
+
 <p align="left">
    <a href="https://www.credly.com/badges/ce52c085-7dce-4cb9-aa7e-dc734f560d35/public_url">
       <img src="./img/clf-co2.png" alt="aws-certified-cloud-practitioner" width="105"/>
@@ -25,7 +26,6 @@ Thanks for visiting my GitHub.
     <img src="./img/saa-co3.png" alt="aws-certified-solutions-architect-associate" width="105"/>
   </a>
 </p>
-
 
 ### 🔥 I'm interested in:
 
@@ -69,13 +69,16 @@ Thanks for visiting my GitHub.
 
 #### 📫 Reach me via:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btkh/)](https://www.linkedin.com/in/btkh/)
-[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)
-[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://sites.google.com/view/bekaluetadesse/about)](https://sites.google.com/view/bekaluetadesse/about)&nbsp;![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/btkh/)](https://www.linkedin.com/in/btkh/) -->
+
+<!-- [![Skype](https://img.shields.io/badge/Skype-00AFF0?style=plastic&logo=skype&logoColor=white&link=https://join.skype.com/invite/zQKAiW6yE9tP)](https://join.skype.com/invite/zQKAiW6yE9tP) -->
+
+[[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&link=https://twitter.com/beck_tkh)](https://twitter.com/beck_tkh)]
+[[![](https://img.shields.io/static/v1?style=plastic&label=visit&message=myportfoliopage&color=green%link=https://www.data-wiz-bek.com/)]](https://www.data-wiz-bek.com/)&nbsp;[![](https://komarev.com/ghpvc/?username=BeTKH&color=brightgreen&style=plastic&base=1121&abbreviated=true)]
 
  <!-- Github activity  --->
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+[![](https://github-readme-activity-graph.vercel.app/graph?username=BeTKH&custom_title=Github%20Activity%20over%20time&hide_border=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> -->

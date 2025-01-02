@@ -29,33 +29,38 @@ Thanks for visiting my GitHub.
 
 ### 🔥 I'm interested in:
 
-- Data Engineering & Pipeline Automation
-- AWS Cloud
+- Data Engineering & Automation
+- AWS Cloud Solutions
 
-#### :hammer_and_wrench: I love working with:
+##### My Core Tech Stack :
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=whitelinkhttps://www.djangoproject.com/)](https://www.djangoproject.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white&link=https://en.wikipedia.org/wiki/CSS)](https://en.wikipedia.org/wiki/CSS)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white&link=https://en.wikipedia.org/wiki/HTML5)](https://en.wikipedia.org/wiki/HTML5)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&link=https://reactjs.org/)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white&link=https://getbootstrap.com/)](https://getbootstrap.com/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black&link=https://matplotlib.org/)](https://matplotlib.org/)
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white&link=https://numpy.org/)](https://numpy.org/)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/)
+
+##### Data and storage :
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=plastic&logo=amazons3&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+
+##### Workflows & automation :
+
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
+
+##### ML / Analytics :
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
 [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white&link=https://plotly.com/)](https://plotly.com/)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white&link=https://pandas.pydata.org/)](https://pandas.pydata.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
-[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white&link=https://scipy.org/)](https://scipy.org/)
-[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white&link=https://www.docker.com/)](https://www.docker.com/)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white&link=https://jupyter.org/)](https://jupyter.org/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white&linkhttps://www.anaconda.com/)](https://www.anaconda.com/)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 
 <!--
 
@@ -82,3 +87,5 @@ Thanks for visiting my GitHub.
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BeTKH&show_icons=true&locale=en" alt="BeTKH" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeTKH&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> -->
+
+<!-- https://github.com/Ileriayo/markdown-badges -->

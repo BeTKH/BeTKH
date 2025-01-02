@@ -32,9 +32,7 @@ Thanks for visiting my GitHub.
 - Data Engineering & Automation
 - AWS Cloud Solutions
 
-### Tech Stack :
-
-| **Category**               | **Tools/Technologies**                                                                                          |
+|              |                                             **Tech Stack**                                             |
 |----------------------------|------------------------------------------------------------------------------------------------------------------|
 | Core Tech Stack      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white&link=https://ubuntu.com/)](https://ubuntu.com/) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54&link=https://www.python.org/)](https://www.python.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white&link=https://www.djangoproject.com/)](https://www.djangoproject.com/) |
 | Data and Storage       | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white&link=https://www.postgresql.org/)](https://www.postgresql.org/) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=plastic&logo=amazons3&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) |

@@ -3,9 +3,9 @@ Thanks for visiting my GitHub.
 
 ## :mortar_board: Education:
 
-- MSc, Computer Science - North Dakota State University (NDSU) (May, 2025)
-- MSc, Information Technology - Universität Rostock - Germany (Apr, 2022)
-- BSc, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
+- MS, Computer Science - North Dakota State University (NDSU) (May, 2025)
+- MS, Electrical Engineering & IT - Universität Rostock - Germany (Apr, 2022)
+- BS, Electrical Engineering - Jimma University - Ethiopia (Jul, 2015)
 
 ## 💻 Experience:
 
